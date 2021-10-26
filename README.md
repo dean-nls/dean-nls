@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dean-nls
 - 👀 I’m interested in PHP
-- 🌱 I’m currently learning docker
+- 🌱 I’m currently learning docker and other things
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
